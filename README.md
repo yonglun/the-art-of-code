@@ -74,4 +74,4 @@ tests/                         # Node regression tests
 
 The reading notes are based on the ten chapter files supplied for this project. The site is an independent reading companion, not a reproduction of the book. Editorial summaries, reflections, examples, and distilled lines are marked as interpretations where relevant. Book information: [The Art of Code on Manning](https://www.manning.com/books/the-art-of-code).
 
-No open-source license is currently declared for this repository. Add a license before redistributing the code.
+This project is licensed under the [MIT License](LICENSE).

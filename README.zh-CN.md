@@ -76,4 +76,4 @@ tests/                         # Node 回归测试
 
 读书笔记基于本项目提供的十个章节文件整理。本站是独立读书伴侣，不是书籍的复刻。概要、随想、实践例子和提炼句均为编辑整理；需要时会明确标注为本站解释。书籍信息见 [Manning 上的 The Art of Code](https://www.manning.com/books/the-art-of-code)。
 
-当前仓库没有声明开源许可证。如需再发布代码，请先补充许可证。
+本项目采用 [MIT 许可证](LICENSE) 授权。
